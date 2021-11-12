@@ -8,7 +8,7 @@ export default function HomePage(props) {
   return (
     <Fragment>
       <Head>
-        <title>Welcome to my blog</title>
+        <title>Welcome to my blog!</title>
         <meta name="description" content="I post about travelling" />
       </Head>
       <Hero />
