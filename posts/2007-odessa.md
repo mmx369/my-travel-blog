@@ -6,18 +6,64 @@ isFeatured: true
 date: 'July, 2007'
 ---
 
-JavaScript powers the web - it's **the** most important programming language you need to know as a web developer.
+## July 2007, Odessa, Ukraine - Сhisinau, Moldova
 
-For example, you should understand code like this:
+### Images 1
 
-```js
-const basics = 'Okay, that should not be too difficult actually';
+![Odessa-image-01 2432*1824](image_01.jpg)
 
-function printBasics() {
-  console.log(basics):
-}
+Odessa - Cafe
 
-printBasics();
-```
+### Images 2
 
-Learn more about it [here](https://academind.com).
+![Odessa-image-02 2432*1824](image_02.jpg)
+
+Odessa - Mc Donalds
+
+### Images 3
+
+![Odessa-image-03 1920*2560](image_03.jpg)
+
+City walk.
+
+### Images 4
+
+![Odessa-image-04 2560*1920](image_04.jpg)
+
+City walk.
+
+### Images 5
+
+![Odessa-image-05 2560*1920](image_05.jpg)
+
+City walk.
+
+### Images 6
+
+![Odessa-image-06 1920*2560](image_06.jpg)
+
+City walk.
+
+### Images 7
+
+![Odessa-image-07 1920*2560](image_07.jpg)
+
+City walk.
+
+### Images 8
+
+![Odessa-image-08 2560*1920](image_08.jpg)
+
+Odessa -cafe
+
+### Images 9
+
+![Odessa-image-09 2560*1920](image_09.jpg)
+
+Going home.
+
+### Images 10
+
+![Odessa-image-10 2560*1920](image_10.jpg)
+
+City walk.
