@@ -30,8 +30,9 @@ export function getAllPosts() {
   const allPosts = postFiles.map((postFile) => {
     return getPostData(postFile)
   })
+
   const sortedPosts = allPosts.sort((a: IPost, b: IPost) =>
-    a.date! > b.date! ? 1 : -1
+    a.date! < b.date! ? 1 : -1
   )
   return sortedPosts
 }

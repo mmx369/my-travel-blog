@@ -1,6 +1,6 @@
 ---
 title: 'Surgut, Russia'
-date: 'June, 2006'
+date: '2006, June'
 author: 'Max'
 image: 'surgut_title.jpg'
 excerpt: 'My business trip to Surgut'
