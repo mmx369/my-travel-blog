@@ -12,7 +12,6 @@ export default function PostItem({ post }: TProps) {
   let formattedDate
   if (date) {
     formattedDate = new Date(date).toLocaleDateString('en-US', {
-      day: 'numeric',
       month: 'long',
       year: 'numeric',
     })
