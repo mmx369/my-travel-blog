@@ -31,7 +31,7 @@ export default function ContactForm() {
   const [requestStatus, setRequestStatus] = useState<
     null | 'pending' | 'success' | 'error'
   >()
-  const [requestError, setRequestError] = useState<null | unknown>()
+  const [requestError, setRequestError] = useState<any>()
 
   useEffect(() => {
     if (requestStatus === 'success' || requestStatus === 'error') {
