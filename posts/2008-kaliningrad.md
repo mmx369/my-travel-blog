@@ -3,7 +3,7 @@ title: Kaliningrad, Russia
 excerpt: My business trip to Kaliningrad
 image: kaliningrad_title.jpg
 isFeatured: true
-date: '2008, May'
+date: '2008-05-01'
 ---
 
 ## May 2008, Kalinigrad, Russia

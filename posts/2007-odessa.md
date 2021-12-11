@@ -3,7 +3,7 @@ title: Odessa, Ukraine
 excerpt: My vacation to Ukraine
 image: odessa_title.jpg
 isFeatured: true
-date: '2007, July'
+date: '2007-07-01'
 ---
 
 ## July 2007, Odessa, Ukraine - Сhisinau, Moldova

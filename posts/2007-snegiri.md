@@ -3,7 +3,7 @@ title: Snegiri, Moscow Oblast, Russia
 excerpt: My business trip to Snegiri
 image: snegiri_title.jpg
 isFeatured: true
-date: '2007, March'
+date: '2007-03-01'
 ---
 
 ## December 2007, Snegiri, Moscow Oblast, Russia

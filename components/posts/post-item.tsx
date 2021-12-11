@@ -10,6 +10,7 @@ type TProps = {
 export default function PostItem({ post }: TProps) {
   const { title, image, excerpt, date, slug } = post
   let formattedDate
+
   if (date) {
     formattedDate = new Date(date).toLocaleDateString('en-US', {
       month: 'long',

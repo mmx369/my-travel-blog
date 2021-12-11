@@ -3,7 +3,7 @@ title: Vyborg, Russia
 excerpt: My business trip to Vyborg
 image: vyborg_title.jpg
 isFeatured: true
-date: '2008, February'
+date: '2008-02-01'
 ---
 
 ## February 2008, Vyborg, Leningrad Oblast, Russia

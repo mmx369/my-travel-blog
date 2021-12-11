@@ -3,7 +3,7 @@ title: Novosibirsk, Russia
 excerpt: My trip to Solar Eclipse
 image: novosibirsk_title.jpg
 isFeatured: true
-date: '2008, August'
+date: '2008-08-01'
 ---
 
 ## August 2008, Novosibirsk, Russia
