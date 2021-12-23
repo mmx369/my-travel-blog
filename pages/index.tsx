@@ -13,7 +13,10 @@ export default function HomePage({
     <Fragment>
       <Head>
         <title>Welcome to my blog!</title>
-        <meta name='description' content='I post about travelling' />
+        <meta
+          name='description'
+          content='I am Max Klishevich. This is my blog. I post about travelling. '
+        />
       </Head>
       <Hero />
       <FeaturedPosts posts={posts} />
