@@ -1,6 +1,6 @@
 ---
 title: Nizhnevartovsk, Russia
-excerpt: My bussinnes trip to Nizhnevartovsk
+excerpt: My business trip to Nizhnevartovsk
 image: nizhnevartovsk_title.JPG
 isFeatured: true
 date: '2011-02-01'

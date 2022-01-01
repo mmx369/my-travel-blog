@@ -1,6 +1,6 @@
 ---
 title: Kaluga, Russia
-excerpt: My bussines trip to Kaluga
+excerpt: My business trip to Kaluga
 image: kaluga_title.JPG
 isFeatured: true
 date: '2011-11-01'

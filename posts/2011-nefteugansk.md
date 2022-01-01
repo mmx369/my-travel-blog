@@ -1,6 +1,6 @@
 ---
 title: Nefteugansk, Russia
-excerpt: My bussinnes trip to Nefteugansk
+excerpt: My business trip to Nefteugansk
 image: nefteugansk_title.JPG
 isFeatured: true
 date: '2011-10-01'

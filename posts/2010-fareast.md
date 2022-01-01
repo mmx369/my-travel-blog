@@ -1,6 +1,6 @@
 ---
 title: Mnogovershinny - Nikolayevsk-on-Amur, Russia
-excerpt: My bussinnes trip to Khabarovsk Krai
+excerpt: My business trip to Khabarovsk Krai
 image: mnogo_title.JPG
 isFeatured: true
 date: '2010-06-01'

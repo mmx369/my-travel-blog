@@ -1,6 +1,6 @@
 ---
 title: Yuzhno-Sakhalinsk, Russia
-excerpt: My bussinnes trip to Yuzhno-Sakhalinsk
+excerpt: My business trip to Yuzhno-Sakhalinsk
 image: sakhalin_title.JPG
 isFeatured: true
 date: '2010-08-01'

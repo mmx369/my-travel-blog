@@ -1,6 +1,6 @@
 ---
 title: Saratov, Russia
-excerpt: My bussiness trip to Saratov
+excerpt: My business trip to Saratov
 image: saratov_title.JPG
 isFeatured: true
 date: '2012-04-01'

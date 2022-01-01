@@ -1,6 +1,6 @@
 ---
 title: Baley, Zabaykalsky Krai, Russia,
-excerpt: My businness trip to Zabaykalsky Krai
+excerpt: My business trip to Zabaykalsky Krai
 image: baley_title.JPG
 isFeatured: true
 date: '2012-02-01'

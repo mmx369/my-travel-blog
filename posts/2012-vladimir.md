@@ -1,6 +1,6 @@
 ---
 title: Vladimir, Russia
-excerpt: My bussinness trip to Vladimir
+excerpt: My business trip to Vladimir
 image: vladimir_title.JPG
 isFeatured: true
 date: '2012-07-01'
