@@ -1,12 +1,12 @@
 ---
-title: Amsterdam, The Netherland
+title: Amsterdam, The Netherlands
 excerpt: My vacation to Amsterdam
 image: amsterdam_title.JPG
 isFeatured: true
 date: '2014-05-01'
 ---
 
-## May 2014, Amsterdam, The Netherland
+## May 2014, Amsterdam, The Netherlands
 
 ### Image 1
 
