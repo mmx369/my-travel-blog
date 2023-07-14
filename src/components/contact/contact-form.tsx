@@ -1,6 +1,7 @@
-import React, { useState, useEffect } from 'react'
-import classes from './contact-form.module.css'
+'use client'
+import React, { useEffect, useState } from 'react'
 import Notification from '../ui/notification'
+import classes from './contact-form.module.css'
 
 type contactDetailsProps = {
   email: string
@@ -57,7 +58,8 @@ export default function ContactForm() {
       setEnteredName('')
       setEnteredEmail('')
     } catch (err) {
-      setRequestError(err)
+      //@ts-ignore
+      setRequestError(err.message)
       setRequestStatus('error')
     }
   }

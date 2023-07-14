@@ -1,8 +1,8 @@
+import Image from 'next/legacy/image'
 import ReactMarkdown from 'react-markdown'
-import Image from 'next/image'
 import { IPost } from '../../../types'
-import PostHeader from './post-header'
 import classes from './post-content.module.css'
+import PostHeader from './post-header'
 
 type TProps = {
   post: IPost
@@ -10,7 +10,6 @@ type TProps = {
 
 export default function PostContent({ post }: TProps) {
   const imagePath = `/images/posts/${post.slug}/${post.image}`
-  console.log('imagePath', imagePath)
 
   const custumRenderers = {
     p(paragraph: any) {

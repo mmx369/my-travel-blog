@@ -1,7 +1,7 @@
 import fs from 'fs'
-import path from 'path'
 import matter from 'gray-matter'
-import { IPost } from '../types'
+import path from 'path'
+import { IPost } from '../src/types'
 
 const postsDirectory = path.join(process.cwd(), 'posts')
 
@@ -11,7 +11,10 @@ export function getPostsFiles() {
 }
 
 export function getPostData(postIdentifier: string) {
-  const postSlug = postIdentifier.replace(/\.md$/, '') //removes file extension
+  let postSlug = postIdentifier.replace(/\.md$/, '') //removes file extension
+  if (!postSlug) {
+    postSlug = postIdentifier
+  }
   const filePath = path.join(postsDirectory, `${postSlug}.md`)
   const fileContent = fs.readFileSync(filePath, 'utf-8')
   const { data, content } = matter(fileContent)
